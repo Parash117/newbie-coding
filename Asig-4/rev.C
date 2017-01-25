@@ -1,3 +1,4 @@
+//To reverse the arrangment of array
 #include<stdio.h>
 int main(){
 
