@@ -1,0 +1,23 @@
+[ Practical ]:
+=======================================================================
+rev.C ==> Revers the elements in arry
+name.C ==> to store names in array
+2to1.C ==> WAP a program to read two arrays and merge these two arrays into third array
+trans.C ==> to transpose a given matrix
+matsum.C ==> Row Sum and Colum Sum
+=======================================================================
+
+[ Arrays and Strings ]:
+=======================================================================
+10valuearry.C ==> to display 10 entered values
+inputnum.C ==> WAP to input any 10 number by user and display them.
+sumavg.C ==> WAP in C to input any 10 number in an array and print them along with the Total and average of that numbers
+rev.C ==> WAP to input any 5 elements in an array and print them in reverse order too.
+bigsmall.C ==> WAP to input any 10 numbers in an array and find out the Maximum and Minimum Value
+oddeven.C ==> WAP in C to input any 10 numbers in an array and count no. of ODD and EVEN and find out their sum and display them
+searchnum.C => WAP in C to input any 10 numbers in an array and search an element.
+
+
+
+
+=======================================================================
