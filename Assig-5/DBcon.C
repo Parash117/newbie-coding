@@ -3,9 +3,10 @@
 int DBconverter(int);
 
 int main(){
- int decimal;
+ long int decimal;
  printf("Enter a Decimal number : ");
- scanf("%d", &decimal);
+ scanf("%ld", &decimal);
+ printf("\n");
  
  DBconverter(decimal);
  
@@ -21,8 +22,9 @@ int DBconverter(int dec){
 		quotent = quotent/2;
 		i++;
 	}
-	for( j = i; j!=0; j--){
-		printf("%d",binary[i]);
+	printf("The binary conversion of %d is : ", dec);
+	for( j = i-1; j>=0; j--){
+		printf("%d",binary[j]);
 	}
 	
  return 0;
