@@ -9,18 +9,18 @@ int main(){
  printf("Enter any NUmber : ");
  scanf("%d", &a);
  printf("\n");
- 
+ printf("\n");
  //********************
  //by No return with Arg
  //********************
  div1(a);
  //--------------------
  printf("\n");
- 
+ printf("\n");
  //*********************
  //by Return with Arg
  //*********************
-	if(div2(a)==1||div2(a)==0){
+	if(div2(a)==1){
 		printf("The number is divisible by 5 or 7");
 		
 		}
@@ -30,17 +30,19 @@ int main(){
  //-----------------------
  
 	printf("\n");
+	printf("\n");
  //********************
  //by No return No Arg
  //********************
 	div();
  //--------------------
 	printf("\n");
+	printf("\n");
 
  //*********************
  //by Return with no Arg
  //*********************
-	if (div3()==1|| div3()==0){
+	if (div3()==1){
 		printf("the number is divisible by 5 or 7");
 	}
 	else{
@@ -68,7 +70,7 @@ void div(){
 	else{
 		printf("The number is not divisible by 5 or 7");
 	}
-	printf("------------------------------------------------\n");
+	printf("\n------------------------------------------------\n");
 }
 
 int div1(int b){
@@ -82,7 +84,7 @@ int div1(int b){
 	else{
 		printf("The number is not divisible by 5 or 7");
 	}
-	printf("------------------------------------------------\n");
+	printf("\n------------------------------------------------\n");
 return 0;
 }
 
@@ -119,7 +121,7 @@ int div3(){
 	else {
 		c=0;
 	}
-	printf("------------------------------------------------\n");
+	
 	
 	return c; 
  }
