@@ -1,0 +1,57 @@
+FUNCTION :
+----------------------------------------------------------------------------------------------------------------------
+div57.C ===>	Write a Program in C to input a number and find whether the number is exactly divisible by 5 and 7 or not 		using functions:
+
+		No return no argument
+
+		No return with argument
+
+		Return with no argument
+
+		Return with argument
+
+palind.C ===>	WAP in C to input a number and check whether the number is palindrome or not using function.
+
+prime.C ===>	WAP in C to find whether the given number is prime or not using function
+
+primt500.C ===>	WAP in C to print all prime number less than 500 using function
+
+twinprime.C===>	WAP in C to print print TWIN PRIME less than 500 using function. [if two consecutive odd numbers are both 			prime then they are known as twin prime].
+
+DBcon.C ===>	WAP in C to convert decimal number to binary using functions
+
+divisor.C ===>	WAP in C to find all the divisor of a given number using functions
+
+XY.C ===>	Write a function Power that computes X raised to the power Y for integer X and Y and return double type 		value.
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+ARRAY AND STRING :
+---------------------------------------------------------------------------------------------------------------------
+
+callarray.C===>	Write a Program in C to input any 10 elements in an array and display them using function. (Passing 				individual array element).
+
+face.C ===>	Write a program in c to input any 10 number in an array and sort them in ascending order using function. 		(Pass Whole array).
+
+fdec.C ===>	Write a program in c to input any 10 number in an array and sort them in ascending order using function. 		(Pass Whole array).
+
+-----------------------------------------------------------------------------------------------------------------------
+
+
+RECURSION :
+-----------------------------------------------------------------------------------------------------------------------
+
+factf.C ===>	Write a program in C to find factorial of a given number using Recursive Function
+
+fibon.C ===>	WAP in C to generate the Fibonacci series using recursive Function.
+
+showfs.C===>	Write a recursive function to generate the particular term in Fibonacci Series. ( eg. 8th term: 13).
+
+rever.C ===>	WAP in C to display the reverse number using Recursion.
+
+sumofD.C===>	WAP to find the sum of digits entered by the user.
+
+sum10.C ===>	WAP to find the sum of Natural number up to 10 using recursion.
+
+powR.C  ===>	WAP in C to ask a number and Power to be calculated for that number.

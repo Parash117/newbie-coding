@@ -1,3 +1,4 @@
+//To find the Factorial using Recrusive function
 #include <stdio.h>
 
 int factorial(unsigned int i) {

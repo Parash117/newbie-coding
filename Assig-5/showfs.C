@@ -1,3 +1,4 @@
+//Write a recursive function to generate the particular term in Fibonacci Series. ( eg. 8th term: 13).
 #include <stdio.h>
 
 int fibonacci(int i) {

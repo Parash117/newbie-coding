@@ -1,3 +1,4 @@
+//Write a Program in C to input a number and find whether the number is exactly divisible by 5 and 7 or not using functions
 #include<stdio.h>
 void div();
 int div1(int x);
