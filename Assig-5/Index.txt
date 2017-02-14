@@ -46,7 +46,7 @@ factf.C ===>	Write a program in C to find factorial of a given number using Recu
 
 fibon.C ===>	WAP in C to generate the Fibonacci series using recursive Function.
 
-showfs.C===>	Write a recursive function to generate the particular term in Fibonacci Series. ( eg. 8th term: 13).
+show.C===>	Write a recursive function to generate the particular term in Fibonacci Series. ( eg. 8th term: 13).
 
 rever.C ===>	WAP in C to display the reverse number using Recursion.
 
