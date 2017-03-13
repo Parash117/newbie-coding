@@ -4,10 +4,10 @@
 int transpose(int**,int,int);
 int main(){
 	int m,n,i,j;
-	printf("Please enter the dimension of the matrix (m*n): ");
+	printf("Please enter the dimension of the matrix (m*n): \n");
 	scanf("%d", &m);
 	scanf("%d", &n);
-	int **matrix;
+	int **matrix=NULL;
 	matrix=(int**)malloc(sizeof(int*)*m);
 	matrix[0]=(int*)malloc(sizeof(int)*n*m);
 	for(i=0; i<m; i++){
@@ -15,7 +15,7 @@ int main(){
 	}
 	printf("Enter the number is matrix");
 	for(i=0; i<m; i++){
-		printf("\nEnter the numbers in row %d :", i+1);
+		printf("\nEnter the numbers in row %d :\n", i+1);
 		for(j=0; j<n; j++){
 			scanf("%d", &*(*(matrix+i)+j));
 		}
